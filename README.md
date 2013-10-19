@@ -1,4 +1,4 @@
-utility
-=======
+swig-sample
+===========
 
-Some random utils 
+Some utilities and sample usages of swig
